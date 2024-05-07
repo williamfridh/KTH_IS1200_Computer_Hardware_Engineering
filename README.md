@@ -5,7 +5,6 @@
 **Welcome to the IS1200 Computer Hardware Engineering repository! This repository contains solutions for labs 1 through 3.**
 
 ## Course Overview
-Credits: 7.5 credits
 
 IS1200 offers a comprehensive understanding of computer functionality and construction from both hardware and software angles. The course comprises six modules covering topics such as:
 
